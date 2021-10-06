@@ -1,4 +1,4 @@
-# tinkoff_dl_entrance_exam
+# Tinkoff DL entrance exam
 Некоторые задачи с вступительного экзамена на курс DL от Тинькофф
 
 * Task 3 - нахождение экстремума функции двух переменных через sympy
