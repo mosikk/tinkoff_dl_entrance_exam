@@ -230,7 +230,7 @@ def print_rules():
     print("You can save a game and come back to it later. Just use 'save' command and think of the name for a save.")
     print("You can return to the main menu by typing 'menu' command.")
     print("I hope you'll have a great time! May the luck be with you!")
-    print("Made by Ilya Moiseenkov aka mosiklol for Tinkoff DL course entrance exam.")
+    print("Made by Ilya Moiseenkov aka mosik for Tinkoff DL course entrance exam.")
 
 
 def check_step(player_step, cur_field):
